@@ -1,0 +1,15 @@
+{
+  "name": "lab-8",
+  "version": "1.0.0",
+  "description": "Lab-8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
